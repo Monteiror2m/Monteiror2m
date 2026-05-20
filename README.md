@@ -1,4 +1,4 @@
-# Olá, eu sou o Rafael Monteiro Ribeiro 👋
+# Olá, eu sou o Rafael Monteiro Ribeiro
 
 Engenheiro de Software Backend Sênior, Coordenador de TI e Professor Universitário. Atuo na intersecção entre o desenvolvimento de sistemas robustos e a formação de novos talentos para o mercado de tecnologia.
 
